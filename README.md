@@ -58,7 +58,7 @@ The game will prompt you based on your current location and actions. If you ente
 ## Installation
 - Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LabyrinthGame.git
+git clone https://github.com/TrungNghi01/LabyrinthGame.git
 ```
 - Open the project in Visual Studio or your preferred C# IDE.
 - Build the solution to restore dependencies and compile the code.
