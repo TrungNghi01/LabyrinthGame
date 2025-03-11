@@ -45,7 +45,7 @@ ICommand takeSword = new GetSwordCommand();
 takeSword.Execute(game);
 ```
 
-Usage
+## Usage
 Once the game is running, you can issue various commands using either full names or short aliases. Example commands include:
 
 Move North: move north or n or 1
@@ -54,3 +54,11 @@ Take Sword: take sword or ts or 6
 View Map: view map or vm or 5
 Debug Map: debug or d
 The game will prompt you based on your current location and actions. If you enter a pit room, the game will end, and you'll be notified.
+
+## Installation
+- Clone the repository:
+```bash
+git clone https://github.com/yourusername/LabyrinthGame.git
+```
+- Open the project in Visual Studio or your preferred C# IDE.
+- Build the solution to restore dependencies and compile the code.
